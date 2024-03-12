@@ -1,0 +1,11 @@
+{
+    "name": "AnSir",
+    "version": "1.0.0",
+    "description": "An extension to answer your questions quickly and effeciently",
+    "manifest_version": 3,
+    "author": "Kawika Naweli",
+    "action": {
+        "default_popup": "index.html",
+        "deafult_title": "AnSir"
+    }
+}
