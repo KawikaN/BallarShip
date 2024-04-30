@@ -4,8 +4,13 @@
     "description": "An extension to answer your questions quickly and effeciently",
     "manifest_version": 3,
     "author": "Kawika Naweli",
+    "permissions": [], 
+    "host-permissions": [],
+    "@comments": "permissions is used to access api that lets your program see informatio",
+    "@comments2": "Host-Permissions is used to request ability to modify API data like cookies and tabs",
     "action": {
         "default_popup": "index.html",
-        "deafult_title": "AnSir"
+        "deafult_title": "AnSir",
+        "default_icon": ""
     }
 }
